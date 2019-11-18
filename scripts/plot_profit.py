@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 import sys
-
+# test
 
 print("This script has been integrated into freqtrade "
       "and its functionality is available by calling `freqtrade plot-profit`.")
